@@ -38,5 +38,3 @@ loan.c                         # Main source code file
 4. **Follow Prompts**
 
    Enter the loan amount, annual interest rate, and number of payments as prompted. The program will display loan details and an amortization table.
-
----
